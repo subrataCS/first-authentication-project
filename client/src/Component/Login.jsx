@@ -46,6 +46,7 @@ const LoginForm = ({ onToggleRegister }) => {
                     onChange={handleChange}
                     required
                 />
+                
                 <input
                     type="password"
                     name="password"
